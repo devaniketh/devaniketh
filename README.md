@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aniketh Deb
 - 👀 I’m interested in ... all tech stuffs
-- 🌱 I’m currently learning.. DSA , full stack development
+- 🌱 I’m currently learning.. DSA(Javascript) , full stack development
 - 💞️ I’m looking to collaborate on ... open source
 - 📫 How to reach me ... via email=techruntstheworld@gmail.com
 
