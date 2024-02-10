@@ -1,5 +1,5 @@
 # 💫 About Me:
-Learning in public • Open Source Developer• Ready to collaborate
+Learning in public • Backend Developer• Ready to collaborate
 
 
 ## 🌐 Socials:
