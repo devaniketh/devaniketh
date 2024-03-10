@@ -1,5 +1,5 @@
 # 💫 About Me:
-Learning in public • Backend Developer• Ready to collaborate
+Web3 developer • Backend Developer• Ready to collaborate
 
 
 ## 🌐 Socials:
