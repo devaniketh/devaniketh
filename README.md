@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web3 developer • Backend Developer• Ready to collaborate
+Backend Developer
 
 
 ## 🌐 Socials:
