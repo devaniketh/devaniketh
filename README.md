@@ -1,7 +1,9 @@
-# 💫 About Me:
-Backend Developer
-
- <h2 > Profile Visits: </h2>    
+<h1 align="center">Hi I'm Aniketh Deb 👋
+  
+<!-- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Utkarsh" width="10px"> -->
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer;A+Passionate+Web3+Developer;Passionate+About+ML+&DeepLearning)](https://git.io/typing-svg)
+</h1>
 
 ![Visitor Count](https://profile-counter.glitch.me/AnikethDeb2004/count.svg)
 
