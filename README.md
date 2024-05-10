@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer;A+Passionate+Web3+Developer;Passionate+About+ML+&DeepLearning)](https://git.io/typing-svg)
 </h1>
 
-![Visitor Count](https://profile-counter.glitch.me/AnikethDeb2004/count.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnikethDeb2004&label=Profile%20views&color=0e75b6&style=flat" alt="anikethdeb" /> </p>
 
 
 ## 🌐 Socials:
