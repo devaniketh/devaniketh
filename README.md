@@ -1,8 +1,8 @@
 <h1 align="center">Hi I'm Aniketh Deb 👋
   
-<!-- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Utkarsh" width="10px"> -->
+
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer;A+Passionate+Web3+Developer;Passionate+About+ML+&DeepLearning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer;A+Passionate+Web3+Developer;Passionate+About+ML+And+DeepLearning)](https://git.io/typing-svg)
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnikethDeb2004&label=Profile%20views&color=0e75b6&style=flat" alt="anikethdeb" /> </p>
