@@ -1,11 +1,11 @@
 <h1 align="center">gm gm I'm Aniketh Deb 👋
+
   
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=FullStack+Web3+Developer;Passionate+About+ML+And+DeepLearning)](https://git.io/typing-svg)
 </h1>
 
-
-[![](https://visitcount.itsvg.in/api?id=AnikethDeb2004&icon=6&color=2)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnikethDeb2004&label=Profile%20views&color=0e75b6&style=flat" alt="AnikethDeb2004" /> </p>
 
 
 ## 🌐 Socials:
