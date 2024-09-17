@@ -1,7 +1,7 @@
-<h1 align="center">Hi I'm Aniketh Deb 👋
+<h1 align="center">gm gm I'm Aniketh Deb 👋
   
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer;A+Passionate+Web3+Developer;Passionate+About+ML+And+DeepLearning)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=FullStack+Web3+Developer;Passionate+About+ML+And+DeepLearning)](https://git.io/typing-svg)
 </h1>
 
 
