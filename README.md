@@ -14,7 +14,11 @@
 
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniketh-deb-/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Aniketh_Deb) 
+ 
+ <h3 align="left">Skills:</h3>
 
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,solidity" />
 
 
 
