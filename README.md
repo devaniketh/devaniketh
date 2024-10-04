@@ -22,12 +22,10 @@
 
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnikethDeb2004&" alt="AnikethDeb" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnikethDeb2004&show_icons=true&locale=en&layout=compact" alt="AnikethDeb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnikethDeb2004&show_icons=true&locale=en" alt="AnikethDeb" /></p>
 
-<h3 align="left">Github Stats:</h3>
-
-![](https://github-readme-stats.vercel.app/api?username=AnikethDeb2004&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnikethDeb2004&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnikethDeb2004&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnikethDeb2004&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
