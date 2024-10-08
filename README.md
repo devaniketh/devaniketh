@@ -22,9 +22,9 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnikethDeb2004&" alt="AnikethDeb" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnikethDeb2004&show_icons=true&locale=en&layout=compact" alt="AnikethDeb" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnikethDeb2004&show_icons=true&locale=en" alt="AnikethDeb" /></p>
+|🎯 Most used languages 🏆| 🏆 Github Stats 🔭|
+|----------------------------------|----------------------------|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnikethDeb2004&theme=midnight-purple&layout=compact&hide=css,html)]() | [![Aniketh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnikethDeb2004&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/AnikethDeb2004)|
 
 
 ## 🏆 GitHub Trophies
