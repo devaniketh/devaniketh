@@ -4,7 +4,7 @@
   
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="Karan Pargal">
+  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="Aniketh Deb">
  </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnikethDeb2004&label=Profile%20views&color=0e75b6&style=flat" alt="AnikethDeb2004" /> </p>
