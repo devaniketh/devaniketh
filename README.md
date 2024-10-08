@@ -26,11 +26,11 @@
 |----------------------------------|----------------------------|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnikethDeb2004&theme=midnight-purple&layout=compact&hide=css,html)]() | [![Aniketh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnikethDeb2004&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/AnikethDeb2004)|
 
+[![Aniketh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnikethDeb2004&bg_color=000000&color=ffffff&line=9e4c98&point=2e2d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnikethDeb2004&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnikethDeb2004&bg_color=000000&color=ffffff&line=9e4c98&point=2e2d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h3 align="center">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Daftpunktocat Thomas" width="30%" height="auto">
+</h3>
 
 
 ---
