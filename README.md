@@ -1,4 +1,4 @@
-<h3 align="center">Full-Stack web3 Developer</h3>
+<h3 align="center">Full-Stack Blockchain Developer</h3>
 
   
 
@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="Aniketh Deb">
  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnikethDeb2004&label=Profile%20views&color=0e75b6&style=flat" alt="AnikethDeb2004" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devaniketh&label=Profile%20views&color=0e75b6&style=flat" alt="devaniketh" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -25,9 +25,9 @@
 
 |🎯 Most used languages 🏆| 🏆 Github Stats 🔭|
 |----------------------------------|----------------------------|
-|<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnikethDeb2004&show_icons=true&locale=en&layout=compact" alt="AnikethDeb2004" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnikethDeb2004&show_icons=true&locale=en" alt="AnikethDeb2004" /></p> |
+|<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devaniketh&show_icons=true&locale=en&layout=compact" alt="AnikethDeb2004" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devaniketh&show_icons=true&locale=en" alt="AnikethDeb2004" /></p> |
 
-[![Aniketh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnikethDeb2004&bg_color=000000&color=ffffff&line=9e4c98&point=2e2d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aniketh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devaniketh&bg_color=000000&color=ffffff&line=9e4c98&point=2e2d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h3 align="center">
