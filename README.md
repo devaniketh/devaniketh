@@ -17,7 +17,7 @@
  <h3 align="left">Skills:</h3>
 
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,solidity" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,solidity,docker," />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devaniketh&" alt="Aniketh" /></p>
 
