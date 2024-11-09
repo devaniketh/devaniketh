@@ -19,6 +19,8 @@
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,solidity,docker," />
 
+![Anikeths's GitHub stats](https://github-readme-stats.vercel.app/api?username=devaniketh&show_icons=true&theme=ayu-mirage&hide_title=true)
+
 
 
 
