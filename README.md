@@ -19,7 +19,7 @@
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,solidity,docker," />
 
-![Anikeths's GitHub stats](https://github-readme-stats.vercel.app/api?username=devaniketh&show_icons=true&theme=ayu-mirage&hide_title=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devaniketh&" alt="anikethdeb" /></p>
 
 
 
