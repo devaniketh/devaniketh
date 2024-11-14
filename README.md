@@ -19,7 +19,7 @@
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,solidity,docker,graphql" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devaniketh&" alt="anikethdeb" /></p>
+
 
 
 
