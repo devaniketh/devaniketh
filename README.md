@@ -1,5 +1,5 @@
-<h2 align="center">Full-Stack Blockchain Developer🦀</h2>
-
+<h1 align="center"> Hi 👋, I'm Aniketh Deb</h1>
+<h3 align = "center"> Full-Stack Blockchain Developer <h3/>
   
 
 <p align="center">
