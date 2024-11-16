@@ -8,13 +8,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devaniketh&label=Profile%20views&color=0e75b6&style=flat" alt="devaniketh" /> </p>
 
+|  Projects|Hackathons|Description|
+|-----------|---------|---------|
+|[Zk-ReUseIt](https://github.com/devaniketh/Zk-ReUseIt)| <p align="center">   Hackonblocks'24  </p> | <p align="center">  Resale decentralised platform industry. </p> |
+|[Defy-Locker](https://github.com/devaniketh/Hacknova)|<p align="center">Hacknova'24  </p> | Decentralised web-app for storing important docs.  </p>|
+| [SecureInsure](https://github.com/devaniketh/SecureInsure) | <p align="center"> HackVerse '24   </p> |<p align="center">  Decentralised based insurance platform to make insurance features more easier.|
+| [HexiFy](https://github.com/devaniketh/HexiFy) | <p align="center">Top 10 Project at DevsHouse '24  </p> |<p align="center">  Multifunctional Desktop app offering various features for streamlined productivity. </p> |
+
+
 
 <h3 align="left">Connect with me:</h3>
 
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniketh-deb-/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Aniketh_Deb) 
  
- <h3 align="left">Skills:</h3>
+ <h3 align="left">Languages & Tools:</h3>
 
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,solidity,docker,graphql" />
