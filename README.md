@@ -17,26 +17,35 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="center"> Let's get in touch </h2>
+
+<div align="center">
+  <a href="mailto:aniketh.dev7gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aniketh-deb660632235/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Aniketh_Deb"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+
+<div align="center">
+  <h2>Languages, Frameworks & Tools</h2>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,solidity,docker,graphql"  alt="skills logos" />
+  <br /> 
+</div>
 
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniketh-deb-/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Aniketh_Deb) 
- 
- <h3 align="left">Languages & Tools:</h3>
-
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,solidity,docker,graphql" />
 
 
 
 
-
-
-
+<div align="center">
 
 |🎯 Most used languages 🏆| 🏆 Github Stats 🔭|
 |----------------------------------|----------------------------|
 |<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devaniketh&show_icons=true&locale=en&layout=compact" alt="AnikethDeb2004" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devaniketh&show_icons=true&locale=en" alt="AnikethDeb" /></p> |
+</div>
+
+
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devaniketh&theme=dark" alt="kunalkeshan" /></p>
+</div>
 
 [![Aniketh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devaniketh&bg_color=000000&color=ffffff&line=9e4c98&point=2e2d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
