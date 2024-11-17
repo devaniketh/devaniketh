@@ -1,5 +1,11 @@
 <h1 align="center"> Hi 👋, I'm Aniketh Deb</h1>
 <h3 align = "center"> Full-Stack Blockchain Developer <h3/>
+
+
+
+
+
+
   
 
 <p align="center">
@@ -7,6 +13,9 @@
  </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devaniketh&label=Profile%20views&color=0e75b6&style=flat" alt="devaniketh" /> </p>
+
+
+
 
 |  Projects|Hackathons|Description|
 |-----------|---------|---------|
@@ -16,6 +25,16 @@
 | [HexiFy](https://github.com/devaniketh/HexiFy) | <p align="center">Top 10 Project at DevsHouse '24  </p> |<p align="center">  Multifunctional Desktop app offering various features for streamlined productivity. </p> |
 
 
+<div align="center">
+  <h2>⚙️ Technologies and Skills</h2>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaniketh&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  <br>
+  <a href="https://wakatime.com/@devaniketh" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devaniketh&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
+  </a>
+  <br>
+</div>
 
 <h2 align="center"> Let's get in touch </h2>
 
@@ -37,7 +56,7 @@
 
 <div align="center">
 
-|🎯 Most used languages 🏆| 🏆 Github Stats 🔭|
+|🎯 Github Stats 🏆| 🎯 Most used languages 🔭|
 |----------------------------------|----------------------------|
 |<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=devaniketh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Aniketh Deb"  /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devaniketh&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Aniketh Deb" /></p> |
 </div>
