@@ -39,7 +39,7 @@
 
 |🎯 Most used languages 🏆| 🏆 Github Stats 🔭|
 |----------------------------------|----------------------------|
-|<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devaniketh&show_icons=true&locale=en&layout=compact" alt="AnikethDeb2004" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devaniketh&show_icons=true&locale=en" alt="AnikethDeb" /></p> |
+|<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=devaniketh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Aniketh Deb"  /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devaniketh&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Aniketh Deb" /></p> |
 </div>
 
 
@@ -47,7 +47,8 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devaniketh&theme=dark" alt="kunalkeshan" /></p>
 </div>
 
-[![Aniketh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devaniketh&bg_color=000000&color=ffffff&line=9e4c98&point=2e2d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Aniketh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devaniketh&bg_color=000000&color=ffffff&line=c600ff&point=ffffff&area=true&hide_border=true)
+
 
 
 <h3 align="center">
