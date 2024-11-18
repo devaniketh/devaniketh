@@ -45,7 +45,7 @@
 
 <div align="center">
   <h2>Languages, Frameworks & Tools</h2>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,solidity,docker,graphql"  alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,solidity,docker,graphql,postgres,express,nodejs"  alt="skills logos" />
   <br /> 
 </div>
 
