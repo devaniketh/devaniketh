@@ -63,7 +63,7 @@
 
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devaniketh&theme=dark" alt="kunalkeshan" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devaniketh&theme=dark" alt="anikethdeb" /></p>
 </div>
 
 ![Aniketh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devaniketh&bg_color=000000&color=ffffff&line=c600ff&point=ffffff&area=true&hide_border=true)
