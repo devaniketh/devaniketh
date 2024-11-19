@@ -2,15 +2,7 @@
 <h3 align = "center"> Full-Stack Blockchain Developer <h3/>
 
 
-
-
-
-
-  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="Aniketh Deb">
- </p>
+![Aniketh Deb](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devaniketh&label=Profile%20views&color=0e75b6&style=flat" alt="devaniketh" /> </p>
 
