@@ -8,7 +8,6 @@
 
 
 
-
 |  Projects|Hackathons|Description|
 |-----------|---------|---------|
 |[Zk-ReUseIt](https://github.com/devaniketh/Zk-ReUseIt)| <p align="center">   Hackonblocks'24  </p> | <p align="center">  Resale decentralised platform industry. </p> |
@@ -20,6 +19,9 @@
 <div align="center">
   <h2>⚙️ Technologies and Skills</h2>
   <br>
+  <p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaniketh&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
   <br>
   <a href="https://wakatime.com/@devaniketh" target="_blank">
