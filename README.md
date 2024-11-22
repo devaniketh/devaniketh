@@ -19,8 +19,7 @@
 <div align="center">
   <h2>⚙️ Technologies and Skills</h2>
   <br>
-  <p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+  
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaniketh&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
   <br>
@@ -29,7 +28,8 @@
   </a>
   <br>
 </div>
-
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <h2 align="center"> Let's get in touch </h2>
 
 <div align="center">
