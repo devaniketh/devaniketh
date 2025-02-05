@@ -37,11 +37,7 @@
   <a href="https://www.linkedin.com/in/aniketh-deb660632235/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/Aniketh_Deb"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 
-<div align="center">
-  <h2>Languages, Frameworks & Tools</h2>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,solidity,docker,graphql,postgres,express,nodejs"  alt="skills logos" />
-  <br /> 
-</div>
+
 
 
 
