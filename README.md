@@ -8,14 +8,6 @@
 
 
 
-|  Projects|Hackathons|Description|
-|-----------|---------|---------|
-|[Zk-ReUseIt](https://github.com/devaniketh/Zk-ReUseIt)| <p align="center">   Hackonblocks'24  </p> | <p align="center">  Resale decentralised platform industry. </p> |
-|[Defy-Locker](https://github.com/devaniketh/Hacknova)|<p align="center">Hacknova'24  </p> | Decentralised web-app for storing important docs.  </p>|
-| [SecureInsure](https://github.com/devaniketh/SecureInsure) | <p align="center"> HackVerse '24   </p> |<p align="center">  Decentralised based insurance platform to make insurance features more easier.|
-| [HexiFy](https://github.com/devaniketh/HexiFy) | <p align="center">Top 10 Project at DevsHouse '24  </p> |<p align="center">  Multifunctional Desktop app offering various features for streamlined productivity. </p> |
-
-
 <div align="center">
   <h2>⚙️ Technologies and Skills</h2>
   <br>
