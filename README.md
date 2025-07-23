@@ -8,6 +8,7 @@
 
 |  Projects|Hackathons|Description|
 |-----------|---------|---------|
+|[Eureka](https://github.com/devaniketh/Eureka)| <p align="center"> Base Fellowship </p> | <p align="center">A location based scavenger on-chain hunting game </p> |
 |[Zk-ReUseIt](https://github.com/devaniketh/Zk-ReUseIt)| <p align="center">   Hackonblocks'24  </p> | <p align="center">  Resale decentralised platform industry. </p> |
 |[Defy-Locker](https://github.com/devaniketh/Hacknova)|<p align="center">Hacknova'24  </p> | Decentralised web-app for storing important docs.  </p>|
 | [SecureInsure](https://github.com/devaniketh/SecureInsure) | <p align="center"> HackVerse '24   </p> |<p align="center">  Decentralised based insurance platform to make insurance features more easier.|
