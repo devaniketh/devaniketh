@@ -1,5 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Aniketh Deb</h1>
-<h3 align = "center"> Full-Stack web3 Developer <h3/>
+<h3 align = "center"> all things tech <h3/>
   
 ![Aniketh Deb](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
