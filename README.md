@@ -1,1 +1,1 @@
-
+I’m a Software Engineer focused on building backend and low-level systems and infrastructure, working with Solana, Rust, and distributed systems. I spend most of my time diving deep into protocol design and cryptography, and I’m obsessed with performance, scalability, and correctness. I learn by building, breaking, and rebuilding systems from first principles.
